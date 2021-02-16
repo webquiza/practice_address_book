@@ -105,3 +105,6 @@ $(document).ready(function() {
     displayContactDetails(addressBook);
   });
 });
+
+
+// come back to this > Use .not correctly to select <p> ("additional-address") and use id= "not" in line 57. 
